@@ -7,80 +7,80 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="1024" Width="1000">
     <Grid Margin="0,0,0,-2">
-        <Button Content="Button" HorizontalAlignment="Left" Margin="69,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="69,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="69,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="69,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="69,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="69,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="69,770,0,0" VerticalAlignment="Top" Width="114" Height="115" RenderTransformOrigin="0.39,3.923" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="69,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="a8" Content="Button" HorizontalAlignment="Left" Margin="69,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="a7" Content="Button" HorizontalAlignment="Left" Margin="69,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="a6" Content="Button" HorizontalAlignment="Left" Margin="69,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="a5" Content="Button" HorizontalAlignment="Left" Margin="69,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="a4" Content="Button" HorizontalAlignment="Left" Margin="69,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="a3" Content="Button" HorizontalAlignment="Left" Margin="69,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="a2" Content="Button" HorizontalAlignment="Left" Margin="69,770,0,0" VerticalAlignment="Top" Width="114" Height="115" RenderTransformOrigin="0.39,3.923" Background="White"/>
+        <Button x:Name="a1" Content="Button" HorizontalAlignment="Left" Margin="69,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="183,77,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="183,192,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="183,308,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="183,423,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="183,539,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="183,654,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="183,770,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="183,885,0,-6" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
+        <Button x:Name="b8" Content="Button" HorizontalAlignment="Left" Margin="183,77,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
+        <Button x:Name="b7" Content="Button" HorizontalAlignment="Left" Margin="183,192,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
+        <Button x:Name="b6" Content="Button" HorizontalAlignment="Left" Margin="183,308,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
+        <Button x:Name="b5" Content="Button" HorizontalAlignment="Left" Margin="183,423,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
+        <Button x:Name="b4" Content="Button" HorizontalAlignment="Left" Margin="183,539,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
+        <Button x:Name="b3" Content="Button" HorizontalAlignment="Left" Margin="183,654,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
+        <Button x:Name="b2" Content="Button" HorizontalAlignment="Left" Margin="183,770,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
+        <Button x:Name="b1" Content="Button" HorizontalAlignment="Left" Margin="183,885,0,-6" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="298,77,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="298,192,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="298,308,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="298,423,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="298,539,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="298,654,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="298,770,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="298,885,0,-6" VerticalAlignment="Top" Width="115" Height="116" Background="Black"/>
+        <Button x:Name="c8" Content="Button" HorizontalAlignment="Left" Margin="298,77,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="White"/>
+        <Button x:Name="c7" Content="Button" HorizontalAlignment="Left" Margin="298,192,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="Black"/>
+        <Button x:Name="c6" Content="Button" HorizontalAlignment="Left" Margin="298,308,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="White"/>
+        <Button x:Name="c5" Content="Button" HorizontalAlignment="Left" Margin="298,423,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="Black"/>
+        <Button x:Name="c4" Content="Button" HorizontalAlignment="Left" Margin="298,539,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="White"/>
+        <Button x:Name="c3" Content="Button" HorizontalAlignment="Left" Margin="298,654,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="Black"/>
+        <Button x:Name="c2" Content="Button" HorizontalAlignment="Left" Margin="298,770,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="White"/>
+        <Button x:Name="c1" Content="Button" HorizontalAlignment="Left" Margin="298,885,0,-6" VerticalAlignment="Top" Width="115" Height="116" Background="Black"/>
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="413,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="413,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="413,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="413,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="413,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="413,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="413,770,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="413,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
+        <Button x:Name="d8" Content="Button" HorizontalAlignment="Left" Margin="413,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
+        <Button x:Name="d7" Content="Button" HorizontalAlignment="Left" Margin="413,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
+        <Button x:Name="d6" Content="Button" HorizontalAlignment="Left" Margin="413,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
+        <Button x:Name="d5" Content="Button" HorizontalAlignment="Left" Margin="413,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
+        <Button x:Name="d4" Content="Button" HorizontalAlignment="Left" Margin="413,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
+        <Button x:Name="d3" Content="Button" HorizontalAlignment="Left" Margin="413,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
+        <Button x:Name="d2" Content="Button" HorizontalAlignment="Left" Margin="413,770,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
+        <Button x:Name="d1" Content="Button" HorizontalAlignment="Left" Margin="413,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="527,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="527,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="527,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="527,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="527,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="527,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="527,770,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="527,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="e8" Content="Button" HorizontalAlignment="Left" Margin="527,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="e7" Content="Button" HorizontalAlignment="Left" Margin="527,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="e6" Content="Button" HorizontalAlignment="Left" Margin="527,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="e5" Content="Button" HorizontalAlignment="Left" Margin="527,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="e4" Content="Button" HorizontalAlignment="Left" Margin="527,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="e3" Content="Button" HorizontalAlignment="Left" Margin="527,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="e2" Content="Button" HorizontalAlignment="Left" Margin="527,770,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="e1" Content="Button" HorizontalAlignment="Left" Margin="527,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="641,77,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="641,192,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="641,308,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="641,423,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="641,539,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="641,654,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="641,770,0,0" VerticalAlignment="Top" Width="115" Height="115" RenderTransformOrigin="0.39,3.923" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="641,885,0,-6" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
+        <Button x:Name="f8" Content="Button" HorizontalAlignment="Left" Margin="641,77,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
+        <Button x:Name="f7" Content="Button" HorizontalAlignment="Left" Margin="641,192,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
+        <Button x:Name="f6" Content="Button" HorizontalAlignment="Left" Margin="641,308,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
+        <Button x:Name="f5" Content="Button" HorizontalAlignment="Left" Margin="641,423,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
+        <Button x:Name="f4" Content="Button" HorizontalAlignment="Left" Margin="641,539,0,0" VerticalAlignment="Top" Width="115" Height="115" Background="Black"/>
+        <Button x:Name="f3" Content="Button" HorizontalAlignment="Left" Margin="641,654,0,0" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
+        <Button x:Name="f2" Content="Button" HorizontalAlignment="Left" Margin="641,770,0,0" VerticalAlignment="Top" Width="115" Height="115" RenderTransformOrigin="0.39,3.923" Background="Black"/>
+        <Button x:Name="f1" Content="Button" HorizontalAlignment="Left" Margin="641,885,0,-6" VerticalAlignment="Top" Width="115" Height="116" Background="White"/>
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="756,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="756,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="756,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="756,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="756,539,0,0" VerticalAlignment="Top" Width="114" Height="115"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="756,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="756,770,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="756,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="g8" Content="Button" HorizontalAlignment="Left" Margin="756,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="g7" Content="Button" HorizontalAlignment="Left" Margin="756,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="g6" Content="Button" HorizontalAlignment="Left" Margin="756,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="g5" Content="Button" HorizontalAlignment="Left" Margin="756,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="g4" Content="Button" HorizontalAlignment="Left" Margin="756,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="g3" Content="Button" HorizontalAlignment="Left" Margin="756,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
+        <Button x:Name="g2" Content="Button" HorizontalAlignment="Left" Margin="756,770,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="White"/>
+        <Button x:Name="g1" Content="Button" HorizontalAlignment="Left" Margin="756,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="Black"/>
 
-        <Button Content="Button" HorizontalAlignment="Left" Margin="870,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="870,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="870,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="870,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="870,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="870,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="870,770,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="870,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
+        <Button x:Name="h8" Content="Button" HorizontalAlignment="Left" Margin="870,77,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
+        <Button x:Name="h7" Content="Button" HorizontalAlignment="Left" Margin="870,192,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White" Click="Button_Click"/>
+        <Button x:Name="h6" Content="Button" HorizontalAlignment="Left" Margin="870,308,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
+        <Button x:Name="h5" Content="Button" HorizontalAlignment="Left" Margin="870,423,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
+        <Button x:Name="h4" Content="Button" HorizontalAlignment="Left" Margin="870,539,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
+        <Button x:Name="h3" Content="Button" HorizontalAlignment="Left" Margin="870,654,0,0" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
+        <Button x:Name="h2" Content="Button" HorizontalAlignment="Left" Margin="870,770,0,0" VerticalAlignment="Top" Width="114" Height="115" Background="Black"/>
+        <Button x:Name="h1" Content="Button" HorizontalAlignment="Left" Margin="870,885,0,-6" VerticalAlignment="Top" Width="114" Height="116" Background="White"/>
         <Label Content="A" HorizontalAlignment="Left" Margin="69,-1,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.265,0.599" Width="114" FontSize="18" Height="78"/>
-        <Label Content="B" HorizontalAlignment="Left" Margin="183,6,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.265,0.599" Width="115" FontSize="18" Height="78"/>
-        <Label Content="C" HorizontalAlignment="Left" Margin="298,6,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.265,0.599" Width="115" FontSize="18" Height="78"/>
+        <Label Content="B" HorizontalAlignment="Left" Margin="188,-1,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.265,0.599" Width="115" FontSize="18" Height="78"/>
+        <Label Content="C" HorizontalAlignment="Left" Margin="298,-1,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.265,0.599" Width="115" FontSize="18" Height="78"/>
         <Label Content="D" HorizontalAlignment="Left" Margin="413,6,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.265,0.599" Width="114" FontSize="18" Height="71"/>
         <Label Content="E" HorizontalAlignment="Left" Margin="527,-1,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.265,0.599" Width="114" FontSize="18" Height="78"/>
         <Label Content="F" HorizontalAlignment="Left" Margin="641,-1,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.265,0.599" Width="115" FontSize="18" Height="78"/>
@@ -95,7 +95,6 @@
         <Label Content="6" HorizontalAlignment="Left" Margin="10,308,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.108,0.207" Height="115" Width="59" FontSize="22"/>
         <Label Content="7" HorizontalAlignment="Left" Margin="10,192,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.108,0.207" Height="116" Width="59" FontSize="22"/>
         <Label Content="8" HorizontalAlignment="Left" Margin="10,79,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.108,0.207" Height="113" Width="59" FontSize="22"/>
-
 
 
     </Grid>
